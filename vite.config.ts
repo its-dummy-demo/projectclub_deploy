@@ -7,7 +7,7 @@ import { componentTagger } from "lovable-tagger";
 // ...existing code...
 export default defineConfig(({ mode }) => ({
   // base must be the repo name path for GitHub Pages
-  base: "/",
+  base: "/projectclb_deploy/",
   server: {
     host: "::",
     port: 8080,
